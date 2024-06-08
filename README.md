@@ -172,6 +172,10 @@ We welcome contributions! Please feel free to submit a Pull Request.
 
 This tool is intended for educational purposes only. Use it responsibly and ensure you have permission to perform cryptographic operations and network communications on the target systems.
 
+## Authors
+
+- **[PAARTHARNAZ](https://github.com/PAARTHARNAZ)**
+
 ---
 
-Happy securing with SecureComm!
+Securing your world, one byte at a time!
